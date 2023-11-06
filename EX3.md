@@ -1,6 +1,4 @@
 # EX 3 SubQueries, Views and Joins 
-
-
 ## Create employee Table
 ```sql
 CREATE TABLE EMPY (EMPNO NUMBER(4) PRIMARY KEY,ENAME VARCHAR2(10),JOB VARCHAR2(9),MGR NUMBER(4),HIREDATE DATE,SAL NUMBER(7,2),COMM NUMBER(7,2),DEPTNO NUMBER(2));
@@ -185,3 +183,6 @@ SELECT * FROM Salesman1 NATURAL JOIN Customer1;
 ```
 ### OUTPUT:
 ![Screenshot 2023-10-03 235553](https://github.com/swetha1510/EX-3-SubQueries-Views-and-Joins/assets/120623583/69ee9215-c031-427a-b445-8260a8997515)
+
+### RESULT:
+Thus the SubQueries, Views and Joins programs are used.
